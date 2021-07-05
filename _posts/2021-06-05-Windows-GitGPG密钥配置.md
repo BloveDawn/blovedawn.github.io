@@ -1,5 +1,5 @@
 ---
-title: WindodwsGitGPG密钥配置与加密签名
+title: Windows-GitGPG密钥配置
 author: Misaka
 date: 2021-06-05 08:50:00 +0800
 categories: [Other]
@@ -7,9 +7,9 @@ tags: [Other, Windows]
 math: true
 ---
 
-WindodwsGitGPG密钥配置与加密签名
+Windodws下的GitGPG密钥配置和开启签名验证
 
-本文来源：[Moeomu的博客](https://www.moeomu.com/posts/WindodwsGitGPG密钥配置与加密签名/)
+本文来源：[Moeomu的博客](https://www.moeomu.com/posts/Windows-GitGPG密钥配置/)
 
 ## 下载GPG4WIN
 

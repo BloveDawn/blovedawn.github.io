@@ -1,28 +1,17 @@
 ---
-title: 终局与旅途
+title: macOS-GitGPG密钥配置
 author: Misaka
-date: 2021-05-24 10:36:00 +0800
+date: 2021-05-25 07:55:00 +0800
 categories: [Other]
-tags: [Other]
+tags: [Other, macOS]
 math: true
 ---
 
-一些杂谈
+macOS下的GitGPG密钥配置和开启签名验证
 
-本文来源：[Moeomu的博客](https://www.moeomu.com/posts/终局与思考/)
+本文来源：[Moeomu的博客](https://www.moeomu.com/posts/macOS-GitGPG密钥配置/)
 
-## Mention
-
-稍微提及一下，山西校企通的自动打卡项目经过思考之后将它决定将它开源，这只是一段赶工出来的不成熟的代码，因此可能会有些阅读困难，但是使用不会有问题，也已经稳定运行了半年多，Readme中我写了所有的使用方法和注意事项，以下是开源地址
-
-[[Github]-XQT-Auto-Clockin](https://github.com/BloveDawn/XQT-Clockin)
-
-- 特性
-  - 全自动打卡
-  - 多用户自动打卡（为了防止服务器被封IP设置了延时打卡）
-  - 不需要账户密码，只需要身份证号即可
-
-## About GitHub GPG key vrify
+## 关于GitHub GPG密钥验证
 
 ### 开启Commit签名
 
@@ -37,14 +26,14 @@ GitHub有个新的“警惕模式”，启用后GPG密钥需要签名认证的co
 
 ### 发生致命错误-无法Commit-macOS
 
-问题如下，复现于macOS 11.3.1中
+#### 问题如下，复现于macOS 11.3.1中
 
 ```text
 error: gpg failed to sign the data
 fatal: failed to write commit object
 ```
 
-macOS中的解决办法
+#### macOS中的解决办法
 
 - 更新&安装
 
@@ -61,7 +50,3 @@ git config --global commit.gpgsign true  # if you want to sign every commit
 
 - 再次签名
 - 查看commit状态：`git log --show-signature -1`
-
-## My Way
-
-似乎会经常陷入抑郁状态，似乎越来越难以控制自己，也许应该去医院看看了
