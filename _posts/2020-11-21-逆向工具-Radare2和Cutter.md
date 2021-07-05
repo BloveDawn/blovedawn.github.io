@@ -9,7 +9,7 @@ math: true
 
 开源逆向神器-Radare2和Cutter
 
-本文来源：[Moeomu的博客](https://www.moeomu.com/posts/逆向工具-Radare2和Cutter/)
+本文来源：[Moeomu的博客](/posts/逆向工具-Radare2和Cutter/)
 
 ## 介绍
 

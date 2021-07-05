@@ -9,7 +9,7 @@ math: true
 
 Windodws下的GitGPG密钥配置和开启签名验证
 
-本文来源：[Moeomu的博客](https://www.moeomu.com/posts/Windows-GitGPG密钥配置/)
+本文来源：[Moeomu的博客](/posts/Windows-GitGPG密钥配置/)
 
 ## 下载GPG4WIN
 

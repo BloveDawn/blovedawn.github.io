@@ -9,7 +9,7 @@ math: true
 
 macOS下的GitGPG密钥配置和开启签名验证
 
-本文来源：[Moeomu的博客](https://www.moeomu.com/posts/macOS-GitGPG密钥配置/)
+本文来源：[Moeomu的博客](/posts/macOS-GitGPG密钥配置/)
 
 ## 关于GitHub GPG密钥验证
 

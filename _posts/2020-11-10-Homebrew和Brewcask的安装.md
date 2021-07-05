@@ -10,7 +10,7 @@ math: true
 HomeBrew的安装，真是历经了多次失败，在此总结一下成功之谈  
 大家请注意时效性：**本文写于2020/11/10**&&**本文更新于2021/07/02**
 
-本文来源：[Moeomu的博客](https://www.moeomu.com/posts/Homebrew和Brewcask的安装/)
+本文来源：[Moeomu的博客](/posts/Homebrew和Brewcask的安装/)
 
 ## 安装git
 

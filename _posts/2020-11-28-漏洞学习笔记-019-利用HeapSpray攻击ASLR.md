@@ -9,7 +9,7 @@ math: true
 
 利用Heap Spray(堆喷射)技术来攻击ASLR并定位shellcode
 
-本文来源：[Moeomu的博客](https://www.moeomu.com/posts/漏洞学习笔记-019-利用HeapSpray攻击ASLR/)
+本文来源：[Moeomu的博客](/posts/漏洞学习笔记-019-利用HeapSpray攻击ASLR/)
 
 ## 原理
 
