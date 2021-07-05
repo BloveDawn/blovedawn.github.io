@@ -9,7 +9,7 @@ math: true
 
 WindodwsGitGPG密钥配置与加密签名
 
-本文来源：[Moeomu的博客](https://www.moeomu.com/posts/WindodwsGitGPG密钥配置与加密签名)
+本文来源：[Moeomu的博客](https://www.moeomu.com/posts/WindodwsGitGPG密钥配置与加密签名/)
 
 ## 下载GPG4WIN
 

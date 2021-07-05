@@ -9,7 +9,7 @@ math: true
 
 Ret2Libc之利用VirtualProtect和VirtualAlloc攻击DEP攻击DEP
 
-本文来源：[Moeomu的博客](https://www.moeomu.com/posts/漏洞学习笔记-015-利用VirtualProtect和VirtualAlloc攻击DEP)
+本文来源：[Moeomu的博客](https://www.moeomu.com/posts/漏洞学习笔记-015-利用VirtualProtect和VirtualAlloc攻击DEP/)
 
 ## 利用VirtualProtect攻击DEP
 
